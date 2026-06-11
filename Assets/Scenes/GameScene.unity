@@ -450,7 +450,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5601651554338310416, guid: 3e5fbfbbeb1b87d4aaff350532484f39, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.9862323
+      value: -5.92
       objectReference: {fileID: 0}
     - target: {fileID: 5601651554338310416, guid: 3e5fbfbbeb1b87d4aaff350532484f39, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3171,12 +3171,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b67bf83038760ad4abfea806515a5569, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Charactor
-  walkSprites:
-  - {fileID: 6348790710242686107, guid: 10f3cacccb0c4c547be76836eba20664, type: 3}
-  - {fileID: -2453208753318357113, guid: 10f3cacccb0c4c547be76836eba20664, type: 3}
-  - {fileID: 5513914976837039818, guid: 10f3cacccb0c4c547be76836eba20664, type: 3}
-  jumpSprites: {fileID: 5907920678353447086, guid: 10f3cacccb0c4c547be76836eba20664, type: 3}
-  playerSpeed: 0
 --- !u!61 &1503174410
 BoxCollider2D:
   m_ObjectHideFlags: 0
