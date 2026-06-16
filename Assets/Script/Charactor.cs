@@ -70,7 +70,7 @@ public class Charactor : MonoBehaviour
 
         if (transform.position.y < -5)
         {
-            SceneManager.LoadScene("GameScene");
+            SceneManager.LoadScene("GameScene2");
         }
     }
 

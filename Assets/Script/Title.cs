@@ -16,7 +16,7 @@ public class Clear : MonoBehaviour
         // クッリクしたときゲーム画面になる
         if (Mouse.current.leftButton.wasPressedThisFrame)
         {
-            SceneManager.LoadScene("GameScene");
+            SceneManager.LoadScene("GameScene2");
         }
 
 

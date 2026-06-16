@@ -22,8 +22,8 @@ public class Spike : MonoBehaviour
 
         player.SetActive(false);
 
-        yield return new WaitForSeconds(1.0f);
+        yield return new WaitForSeconds(2.0f);
 
-        SceneManager.LoadScene("GameScene");
+        SceneManager.LoadScene("GameScene2");
     }
 }

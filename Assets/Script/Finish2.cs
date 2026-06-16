@@ -7,6 +7,6 @@ public class Finish2 : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log("ÉSÅ[Éã");
-        SceneManager.LoadScene("ClearScene");
+        SceneManager.LoadScene("GameScene");
     }
 }
